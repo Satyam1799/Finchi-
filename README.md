@@ -1,2 +1,1 @@
-# Finchi-
-Voice Assistant
+# Finchi
